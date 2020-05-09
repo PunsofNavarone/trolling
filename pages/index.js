@@ -4,6 +4,7 @@ const Home = () => (
   <div>
     <div className="hero">
       <div className="card">
+        <h2>I like Mandaaa, Mandaaa likes me</h2>
         <img src="./vaish.png" alt="vaish" />
       </div>
     </div>
