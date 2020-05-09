@@ -3,8 +3,8 @@ import React from "react";
 const Home = () => (
   <div>
     <div className="hero">
+      <h3 class="title">I like Mandaaa, Mandaaa likes me</h3>
       <div className="card">
-        <h2>I like Mandaaa, Mandaaa likes me</h2>
         <img src="./vaish.png" alt="vaish" />
       </div>
     </div>
@@ -23,7 +23,7 @@ const Home = () => (
         width: 100%;
         padding-top: 80px;
         line-height: 1.15;
-        font-size: 48px;
+        font-size: 60px;
       }
       .title,
       .description {
