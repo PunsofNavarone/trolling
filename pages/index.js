@@ -3,10 +3,9 @@ import React from "react";
 const Home = () => (
   <div>
     <div className="hero">
-      <h3 class="title">I like Mandaaa, Mandaaa likes me</h3>
+      <h3 class="title">Haha you have been trolled</h3>
       <div className="card">
-        <img src="./vaish.png" alt="vaish" />
-      </div>
+    </div>
     </div>
 
     <style jsx>{`
